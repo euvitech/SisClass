@@ -1,0 +1,307 @@
+pagina,codigo,descritor,corr_temp,corr_evento,int_temp,int_evento,destinacao,obs,classe
+119,020,GESTÃO DE PESSOAS,,,,,,,Gestão de pessoas
+119,020.01,NORMATIZAÇÃO. REGULAMENTAÇÃO,*,Fim da vigência,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+119,020.02,IMPLEMENTAÇÃO DAS POLÍTICAS DE PESSOAL,,,,,,,Gestão de pessoas
+119,020.021,PLANEJAMENTO DA FORÇA DE TRABALHO. PREVISÃO DE PESSOAL,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+119,020.022,"CRIAÇÃO, EXTINÇÃO, CLASSIFICAÇÃO, TRANSFORMAÇÃO E TRANSPOSIÇÃO DE CARGOS E DE CARREIRAS",5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+119,020.03,RELACIONAMENTO COM ENTIDADES REPRESENTATIVAS DE CLASSES,,,,,,,Gestão de pessoas
+119,020.031,RELAÇÃO COM SINDICATOS,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+119,020.032,MOVIMENTOS REIVINDICATÓRIOS. GREVES. PARALISAÇÕES,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+119,020.033,RELAÇÃO COM CONSELHOS PROFISSIONAIS,2 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+119,020.1,ASSENTAMENTO FUNCIONAL,,,,,,,Gestão de pessoas
+119,020.11,SERVIDORES E EMPREGADOS PÚBLICOS,*,Término do vínculo com a administra- ção pública,**,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. **Transferir os documentos para o arquivo intermediário após o término do vínculo, sendo o prazo total de guarda dos docu- mentos de 100 anos.",Gestão de pessoas
+119,020.12,SERVIDORES TEMPORÁRIOS,*,Término do vínculo com a administra- ção pública _______,**,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. **Transferir os documentos para o arquivo intermediário após o término do vínculo, sendo o prazo total de guarda dos docu- mentos de 100 anos.",Gestão de pessoas
+120,020.13,RESIDENTES E ESTAGIÁRIOS,*,Término do vínculo com a administra- ção pública,**,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. **Transferir os documentos para o arquivo intermediário após o término do vínculo, sendo o prazo total de guarda dos docu- mentos de 100 anos.",Gestão de pessoas
+120,020.14,OCUPANTES DE CARGO COMISSIONADO E DE FUNÇÃO DE CONFIANÇA,*,Término do vínculo com a administra- ção pública,**,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. **Transferir os documentos para o arquivo intermediário após o término do vínculo, sendo o prazo total de guarda dos docu- mentos de 100 anos",Gestão de pessoas
+120,020.2,IDENTIFICAÇÃO FUNCIONAL,*,Término do vínculo com a administra- ção pública,–,–,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+120,021,RECRUTAMENTO E SELEÇÃO,,,,,,,Gestão de pessoas
+120,021.1,PLANEJAMENTO DO PROCESSO SELETIVO,*,Homologação do evento,2 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+120,021.2,INSCRIÇÃO,*,Homologação do evento,2 anos,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. Aguardar o término da ação, no caso de in- terposição de recursos.",Gestão de pessoas
+120,021.3,CONTROLE DE APLICAÇÃO DE PROVAS,*,Homologação do evento,2 anos,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. Aguardar o término da ação, no caso de in- terposição de recursos.",Gestão de pessoas
+120,021.4,CORREÇÃO DE PROVAS. AVALIAÇÃO,*,Homologação do evento,2 anos,Transferência,Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. Aguardar o término da ação, no caso de in- terposição de recursos.",Gestão de pessoas
+120,021.5,DIVULGAÇÃO DOS RESULTADOS E INTERPOSIÇÃO DE RECURSOS,*,Homologação do evento,2 anos,Transferência,Guarda permanente,"*O prazo de guarda se encerra imediata- mente após o evento. Aguardar o término da ação, no caso de in- terposição de recursos. Eliminar, após 2 anos da homologação do evento, os documentos de recursos indefe- ridos.",Gestão de pessoas
+120,022,"PROVIMENTO, MOVIMENTAÇÃO E VACÂNCIA",,_______,,,,,Gestão de pessoas
+121,022.1,PROVIMENTO DE CARGO PÚBLICO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,"Eliminar, após 5 anos da assinatura do termo de posse, os documentos referentes ao servidor que não tenha entrado em exer- cício dentro do prazo legal.",Gestão de pessoas
+121,022.2,MOVIMENTAÇÃO DE PESSOAL,,,,,,"Eliminar, após 2 anos do arquivamento, os documentos referentes à movimentação não efetivada.",Gestão de pessoas
+121,022.21,"LOTAÇÃO, EXERCÍCIO E PERMUTA",4 anos,Arquivamento,5 anos,Transferência,Eliminação,,Gestão de pessoas
+121,022.22,CESSÃO. REQUISIÇÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,022.3,REMOÇÃO,4 anos,Arquivamento,5 anos,Transferência,Eliminação,"Eliminar, após 2 anos do arquivamento, os documentos referentes à remoção não efeti- vada.",Gestão de pessoas
+121,022.4,REDISTRIBUIÇÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,"Eliminar, após 2 anos do arquivamento, os documentos referentes à redistribuição não efetivada.",Gestão de pessoas
+121,022.5,SUBSTITUIÇÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,"Eliminar, após 2 anos do arquivamento, os documentos referentes à substituição não efetivada.",Gestão de pessoas
+121,022.6,AVALIAÇÃO DE DESEMPENHO,,,,,,,Gestão de pessoas
+121,022.61,CUMPRIMENTO DE ESTÁGIO PROBATÓRIO. HOMOLOGAÇÃO DA ESTABILIDADE.,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,022.62,CUMPRIMENTO DO PERÍODO DE EXPERIÊNCIA,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,022.63,PROMOÇÃO E PROGRESSÃO FUNCIONAL,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,022.7,VACÂNCIA,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,023,CONCESSÃO DE DIREITOS E VANTAGENS,,,,,,,Gestão de pessoas
+121,023.1,PAGAMENTO DE VENCIMENTOS. REMUNERAÇÕES. SALÁRIOS. PROVENTOS,,,,,,,Gestão de pessoas
+121,023.11,FOLHAS DE PAGAMENTO,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+121,023.12,REESTRUTURAÇÃO E ALTERAÇÃO SALARIAL,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+121,023.13,ABONO PROVISÓRIO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+121,023.14,ABONO DE PERMANÊNCIA EM SERVIÇO,*,Homologação da aposentadoria,–,–,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+121,023.15,GRATIFICAÇÕES,,,,,,,Gestão de pessoas
+121,023.151,FUNÇÃO,5 anos,Arquivamento _______,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.152,JETONS,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.153,CARGOS EM COMISSÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.154,NATALINA. DÉCIMO TERCEIRO SALÁRIO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.155,DESEMPENHO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.156,ENCARGO DE CURSO E CONCURSO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.157,TITULAÇÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.16,ADICIONAIS,,,,,,,Gestão de pessoas
+122,023.161,TEMPO DE SERVIÇO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.162,NOTURNO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.163,PERICULOSIDADE,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.164,INSALUBRIDADE,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.165,ATIVIDADE PENOSA,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.166,SERVIÇO EXTRAORDINÁRIO. HORAS EXTRAS,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.167,UM TERÇO DE FÉRIAS. ABONO PECUNIÁRIO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.17,DESCONTOS,,,,,,,Gestão de pessoas
+122,023.171,"CONTRIBUIÇÃO SINDICAL, ASSISTENCIAL E CONFEDERATIVA",7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.172,CONTRIBUIÇÃO PARA O PLANO DE SEGURIDADE SOCIAL,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.173,IMPOSTO DE RENDA RETIDO NA FONTE (IRRF),7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.174,PENSÃO ALIMENTÍCIA,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.175,CONSIGNAÇÕES FACULTATIVAS,*,Fim da vigência da consignação,7 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+122,023.18,"OBRIGAÇÕES TRABALHISTAS E ESTATUTÁRIAS, ENCARGOS PATRONAIS E RECOLHIMENTOS",,,,,,,Gestão de pessoas
+122,023.181,PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO (PASEP). PROGRAMA DE INTEGRAÇÃO SOCIAL (PIS),5 anos,Arquivamento,5 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.182,FUNDO DE GARANTIA DO TEMPO DE SERVIÇO (FGTS),5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+122,023.183,CONTRIBUIÇÃO SINDICAL DO EMPREGADOR,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+122,023.184,CONTRIBUIÇÃO PARA O PLANO DE SEGURIDADE,5 anos,Arquivamento _______,95 anos,Transferência,Eliminação,,Gestão de pessoas
+123,023.185,SOCIAL IMPOSTO DE RENDA,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+123,023.186,LEI DOS DOIS TERÇOS. RELAÇÃO ANUAL DE INFORMAÇÕES SOCIAIS (RAIS),5 anos,Arquivamento,5 anos,Transferência,Eliminação,,Gestão de pessoas
+123,023.19,OUTRAS AÇÕES REFERENTES AO PAGAMENTO DE VENCIMENTOS. REMUNERAÇÕES.,,SALÁRIOS. PROVENTOS,,,,,Gestão de pessoas
+123,023.191,RETIFICAÇÃO DE PAGAMENTO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+123,023.2,FÉRIAS,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+123,023.3,LICENÇAS,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+123,023.4,AFASTAMENTOS,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+123,023.5,CONCESSÕES,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+123,023.6,AUXÍLIOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+123,023.7,REEMBOLSO DE DESPESAS. INDENIZAÇÃO,,,,,,,Gestão de pessoas
+123,023.71,MUDANÇA DE DOMICÍLIO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+123,023.72,LOCOMOÇÃO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+123,023.73,RESSARCIMENTO DE PLANO DE SAÚDE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão _______,5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+124,023.9,OUTRAS AÇÕES REFERENTES À CONCESSÃO DE DIREITOS E VANTAGENS,,ao TCU),,de Gestão ao TCU),,,Gestão de pessoas
+124,023.91,CONTRATAÇÃO DE SEGURO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+124,023.92,OCUPAÇÃO DE IMÓVEL FUNCIONAL,*,Fim da ocupação do imóvel,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+124,023.93,FORNECIMENTO DE TRANSPORTE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+124,024,CAPACITAÇÃO DO SERVIDOR,,,,,,Utilizar os prazos de guarda e a destinação final dos assentamentos funcionais para os documentos comprobatórios de participa- ção.,Gestão de pessoas
+124,024.01,PLANEJAMENTO DA CAPACITAÇÃO,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+124,024.1,PROMOÇÃO DE CURSOS PELO ÓRGÃO E ENTIDADE,,,,,,,Gestão de pessoas
+124,024.11,PROGRAMAÇÃO,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+124,024.12,INSCRIÇÃO E FREQUÊNCIA,5 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+124,024.13,AVALIAÇÃO E RESULTADOS,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+124,024.2,PARTICIPAÇÃO EM CURSOS PROMOVIDOS POR OUTROS ÓRGÃOS E ENTIDADES,5 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+124,024.3,PROMOÇÃO DE ESTÁGIOS PELO ÓRGÃO E ENTIDADE,,,,,,,Gestão de pessoas
+124,024.31,PROGRAMAÇÃO,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+124,024.32,INSCRIÇÃO E FREQUÊNCIA,5 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+124,024.33,AVALIAÇÃO E RESULTADOS,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+124,024.4,PARTICIPAÇÃO EM ESTÁGIOS PROMOVIDOS POR OUTROS ÓRGÃOS E ENTIDADES,5 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+124,024.5,CONCESSÃO DE ESTÁGIOS E BOLSAS PARA ESTUDANTES,,_______,,,,,Gestão de pessoas
+125,024.51,RELAÇÃO COM INSTITUIÇÕES DE ENSINO E AGENTES DE INTEGRAÇÃO,*,Fim da vigência do convênio,2 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+125,024.52,PLANO DE ESTÁGIO,*,Término do vínculo do estudante com a administração pública,2 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+125,025,PROMOÇÃO DA SAÚDE E BEM-ESTAR,,,,,,,Gestão de pessoas
+125,025.1,ASSISTÊNCIA A SAÚDE,,,,,,,Gestão de pessoas
+125,025.11,CELEBRAÇÃO DE CONVÊNIOS DE ASSISTÊNCIA À SAÚDE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+125,025.12,ORIENTAÇÃO PARA CUIDADOS COM A SAÚDE,2 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+125,025.13,PROMOÇÃO DE ATIVIDADE FÍSICA,2 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+125,025.14,REGISTRO DE ASSISTÊNCIA À SAÚDE EM PRONTUÁRIO,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+125,025.2,PRESERVAÇÃO DA SAÚDE E HIGIENE,,,,,,,Gestão de pessoas
+125,025.21,CONTROLE DE RISCOS AMBIENTAIS,5 anos,Arquivamento,15 anos,Transferência,Guarda permanente,,Gestão de pessoas
+125,025.22,"OFERTA DE SERVIÇOS DE REFEITÓRIOS, CANTINAS E COPAS",*,Fim da vigência,2 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+125,025.3,SEGURANÇA DO TRABALHO. PREVENÇÃO DE ACIDENTES DE TRABALHO,,,,,,,Gestão de pessoas
+125,025.31,CONSTITUIÇÃO DA COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES (Cipa),,,,,,,Gestão de pessoas
+125,025.311,COMPOSIÇÃO E ATUAÇÃO,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+125,025.312,OPERACIONALIZAÇÃO DE REUNIÕES,2 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+125,025.32,REGISTRO DE OCORRÊNCIAS DE ACIDENTES DE TRABALHO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+125,026,CONCESSÃO DE BENEFÍCIOS DE SEGURIDADE E PREVIDÊNCIA SOCIAL,,,,,,,Gestão de pessoas
+125,026.01,ADESÃO À PREVIDÊNCIA COMPLEMENTAR,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+125,026.02,CONTAGEM E AVERBAÇÃO DE TEMPO DE SERVIÇO,*,Homologação da aposentadoria _______,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+126,026.1,SALÁRIO FAMÍLIA,5 anos,Arquivamento,19 anos*,Transferência,Eliminação,"*ou 95 anos, nos casos previstos na legisla- ção específica para as concessões especiais.",Gestão de pessoas
+126,026.2,SALÁRIO MATERNIDADE,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+126,026.3,AUXÍLIOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+126,026.4,LICENÇAS,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.5,APOSENTADORIA,,,,,,,Gestão de pessoas
+126,026.51,INVALIDEZ PERMANENTE,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.52,COMPULSÓRIA,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.53,VOLUNTÁRIA,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.54,ESPECIAL,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.6,PENSÃO POR MORTE,,,,,,,Gestão de pessoas
+126,026.61,PENSÃO PROVISÓRIA. PENSÃO TEMPORÁRIA,*,Fim da vigência,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+126,026.62,PENSÃO VITALÍCIA,5 anos,Arquivamento,95 anos,Transferência,Eliminação,,Gestão de pessoas
+126,026.9,OUTRAS AÇÕES REFERENTES À CONCESSÃO DE BENEFÍCIOS DE SEGURIDADE,,E PREVIDÊNCIA SOCIAL,,,,,Gestão de pessoas
+126,026.91,AUXÍLIO RECLUSÃO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+126,027,APURAÇÃO DE RESPONSABILIDADE DISCIPLINAR,,,,,,,Gestão de pessoas
+126,027.1,AVERIGUAÇÃO DE DENÚNCIAS,5 anos,Arquivamento,95 anos,Transferência,Guarda permanente,,Gestão de pessoas
+126,027.2,APLICAÇÃO DE PENALIDADES DISCIPLINARES,5 anos,Arquivamento,95 anos,Transferência,Guarda permanente,,Gestão de pessoas
+126,027.3,AJUSTAMENTO DE CONDUTA,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+126,028,CUMPRIMENTO DE MISSÕES E VIAGENS A SERVIÇO,,_______,,,,"Eliminar, após 2 anos da produção, os docu- mentos referentes as missões e viagens a serviço não efetivadas ou indeferidas.",Gestão de pessoas
+127,028.1,NO PAÍS,,,,,,,Gestão de pessoas
+127,028.11,COM ÔNUS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+127,028.12,COM ÔNUS LIMITADO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+127,028.2,NO EXTERIOR,,,,,,,Gestão de pessoas
+127,028.21,COM ÔNUS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+127,028.22,COM ÔNUS LIMITADO,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+127,028.23,SEM ÔNUS,7 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+127,029,OUTRAS AÇÕES REFERENTES À GESTÃO DE PESSOAS,,,,,,,Gestão de pessoas
+127,029.1,CONTROLE DE ASSIDUIDADE E PONTUALIDADE,,,,,,,Gestão de pessoas
+127,029.11,CONTROLE DE FREQUÊNCIA,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+127,029.12,DEFINIÇÃO DO HORÁRIO DE EXPEDIENTE,2 anos,Arquivamento,–,–,Eliminação,,Gestão de pessoas
+127,029.13,REGISTRO DAS ATIVIDADES DE TELETRABALHO,5 anos,Arquivamento,52 anos,Transferência,Eliminação,,Gestão de pessoas
+127,029.2,INSTITUIÇÃO DO PROGRAMA DE CRECHE,,,,,,,Gestão de pessoas
+127,029.21,PUBLICAÇÃO E DIVULGAÇÃO,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+127,029.22,"INSCRIÇÃO, SELEÇÃO, ADMISSÃO E RENOVAÇÃO",*,Término do vínculo do beneficiário,10 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+127,029.23,"ACOMPANHAMENTO PEDAGÓGICO, MÉDICO E DO DESENVOLVIMENTO DA CRIANÇA",*,Término do vínculo do beneficiário,10 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+127,029.24,AVALIAÇÃO DO PROGRAMA,5 anos,Arquivamento,5 anos,Transferência,Guarda permanente,"Eliminar, após 2 anos da produção, os docu- mentos cujas informações encontram-se re- capituladas ou consolidadas em outros.",Gestão de pessoas
+127,029.3,INCENTIVOS FUNCIONAIS,5 anos,Arquivamento _______,5 anos,Transferência,Guarda permanente,,Gestão de pessoas
+128,029.4,DELEGAÇÃO DE COMPETÊNCIA E PROCURAÇÃO,*,Fim da vigência,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para os documentos referentes aos or- denadores de despesas.,Gestão de pessoas
+128,029.5,CONTRATAÇÃO DE SERVIÇOS PROFISSIONAIS TRANSITÓRIOS,–,–,–,–,–,,Gestão de pessoas
+128,029.6,PETIÇÃO DE DIREITOS,*,Até a solução da in- terposição de pe- dido de reconside- ração ou de recurso,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de pessoas
+128,030,GESTÃO DE MATERIAIS,,,,,,,Gestão de materiais
+128,030.01,NORMATIZAÇÃO. REGULAMENTAÇÃO,*,Fim da vigência,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+128,030.02,CADASTRAMENTO DE FORNECEDORES E DE PRESTADORES DE SERVIÇOS,5 anos,Arquivamento,–,–,Eliminação,,Gestão de materiais
+128,030.03,"ESPECIFICAÇÃO, PADRONIZAÇÃO, CODIFICAÇÃO, PREVISÃO, IDENTIFICAÇÃO E CLASSIFICAÇÃO",2 anos,Arquivamento,–,–,Eliminação,,Gestão de materiais
+128,030.04,QUALIFICAÇÃO DE FORNECEDORES,5 anos,Arquivamento,–,–,Eliminação,,Gestão de materiais
+128,031,AQUISIÇÃO E INCORPORAÇÃO,,,,,,"Eliminar, após 2 anos da produção, os docu- mentos referentes às ações de aquisição e incorporação não efetivadas.",Gestão de materiais
+128,031.1,COMPRA,,,,,,,Gestão de materiais
+128,031.11,MATERIAL PERMANENTE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+128,031.12,MATERIAL DE CONSUMO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+128,031.2,DOAÇÃO E PERMUTA,,_______,,,,,Gestão de materiais
+129,031.21,MATERIAL PERMANENTE,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.22,MATERIAL DE CONSUMO,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.3,DAÇÃO. ADJUDICAÇÃO,,,,,,,Gestão de materiais
+129,031.31,MATERIAL PERMANENTE,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.32,MATERIAL DE CONSUMO,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.4,"CESSÃO, COMODATO E EMPRÉSTIMO",,,,,,,Gestão de materiais
+129,031.41,MATERIAL PERMANENTE,*,Enquanto vigora,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.42,MATERIAL DE CONSUMO,*,Enquanto vigora,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+129,031.5,LOCAÇÃO. ARRENDAMENTO MERCANTIL (LEASING),*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU) _______,5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+130,032,MOVIMENTAÇÃO DE MATERIAL,,,,,,,Gestão de materiais
+130,032.01,TERMO DE RESPONSABILIDADE. CAUTELA,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+130,032.1,CONTROLE DE ESTOQUE,2 anos,Arquivamento,–,–,Eliminação,Observar os prazos da legislação em vigor para os documentos referentes a produtos e insumos químicos e outras substâncias en- torpecentes.,Gestão de materiais
+130,032.2,AUTORIZAÇÃO DE ENTRADA E SAÍDA DE MATERIAL,1 ano,Arquivamento,–,–,Eliminação,Observar os prazos da legislação em vigor para os documentos referentes a produtos e insumos químicos e outras substâncias en- torpecentes.,Gestão de materiais
+130,032.3,RECOLHIMENTO DE MATERIAL INSERVÍVEL AO DEPÓSITO,2 anos,Arquivamento,–,–,Eliminação,Observar os prazos da legislação em vigor para os documentos referentes a produtos e insumos químicos e outras substâncias en- torpecentes.,Gestão de materiais
+130,032.4,TOMBAMENTO,*,Alienação,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+130,033,ALIENAÇÃO E BAIXA,,,,,,"Eliminar, após 2 anos da produção, os docu- mentos referentes às ações de alienação e baixa não efetivadas.",Gestão de materiais
+130,033.1,VENDA,,,,,,,Gestão de materiais
+130,033.11,MATERIAL PERMANENTE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+130,033.12,MATERIAL DE CONSUMO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+130,033.2,DOAÇÃO E PERMUTA,,_______,,,,,Gestão de materiais
+131,033.21,MATERIAL PERMANENTE,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.22,MATERIAL DE CONSUMO,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.3,DAÇÃO. ADJUDICAÇÃO,,,,,,,Gestão de materiais
+131,033.31,MATERIAL PERMANENTE,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.32,MATERIAL DE CONSUMO,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.4,DESFAZIMENTO,,,,,,,Gestão de materiais
+131,033.41,MATERIAL PERMANENTE,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.42,MATERIAL DE CONSUMO,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.5,"CESSÃO, COMODATO E EMPRÉSTIMO",,,,,,,Gestão de materiais
+131,033.51,MATERIAL PERMANENTE,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.52,MATERIAL DE CONSUMO,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de materiais
+131,033.6,"EXTRAVIO, ROUBO, DESAPARECIMENTO, FURTO E AVARIA",*,Conclusão do caso,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Observar os prazos da legislação em vigor para os documentos referentes a produtos e insumos químicos e outras substâncias en- torpecentes.,Gestão de materiais
+131,034,CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS,–,– _______,–,–,–,,Gestão de materiais
+132,035,EXECUÇÃO DE SERVIÇOS DE INSTALAÇÃO E MANUTENÇÃO,1 ano,Arquivamento,–,–,Eliminação,,Gestão de materiais
+132,036,CONTROLE DE MATERIAIS,,,,,,,Gestão de materiais
+132,036.01,COMISSÃO DE INVENTÁRIO,*,Enquanto vigora,–,–,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+132,036.1,INVENTÁRIO DE MATERIAL PERMANENTE,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+132,036.2,INVENTÁRIO DE MATERIAL DE CONSUMO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+132,039,OUTRAS AÇÕES REFERENTES A GESTÃO DE MATERIAIS,,,,,,,Gestão de materiais
+132,039.1,RACIONALIZAÇÃO DO USO DE MATERIAL,,,,,,,Gestão de materiais
+132,039.11,CRIAÇÃO E ATUAÇÃO DE GRUPOS DE TRABALHO,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de materiais
+132,039.12,OPERACIONALIZAÇÃO DE REUNIÕES,2 anos,Arquivamento,–,–,Eliminação,,Gestão de materiais
+132,039.2,EMPRÉSTIMO E DEVOLUÇÃO DE MATERIAL PERMANENTE,*,Enquanto vigora,1 ano,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de materiais
+132,040,GESTÃO DE BENS PATRIMONIAIS E DE SERVIÇOS,,,,,,,Gestão de bens patrimoniais e de serviços
+132,040.01,NORMATIZAÇÃO. REGULAMENTAÇÃO,*,Enquanto vigora,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+132,041,AQUISIÇÃO E INCORPORAÇÃO,,,,,,"Eliminar, após 2 anos da produção, os docu- mentos referentes às ações de aquisição e incorporação não efetivadas.",Gestão de bens patrimoniais e de serviços
+132,041.1,COMPRA,,_______,,,,,Gestão de bens patrimoniais e de serviços
+133,041.11,BENS IMÓVEIS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+133,041.12,VEÍCULOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+133,041.13,BENS SEMOVENTES,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+133,041.2,DOAÇÃO E PERMUTA,,,,,,,Gestão de bens patrimoniais e de serviços
+133,041.21,BENS IMÓVEIS,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+133,041.22,VEÍCULOS,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+133,041.23,BENS SEMOVENTES,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+133,041.3,DAÇÃO. ADJUDICAÇÃO,,,,,,,Gestão de bens patrimoniais e de serviços
+133,041.31,BENS IMÓVEIS,*,Quitação total da dí- vida,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+133,041.32,VEÍCULOS,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento. Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+133,041.4,PROCRIAÇÃO,4 anos,Arquivamento _______,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+134,041.5,CESSÃO E COMODATO,,,,,,,Gestão de bens patrimoniais e de serviços
+134,041.51,BENS IMÓVEIS,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+134,041.52,VEÍCULOS,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+134,041.53,BENS SEMOVENTES,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+134,041.6,LOCAÇÃO. ARRENDAMENTO MERCANTIL (LEASING). SUBLOCAÇÃO,,,,,,,Gestão de bens patrimoniais e de serviços
+134,041.61,BENS IMÓVEIS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apre- sentação do Relató- rio de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+134,041.62,VEÍCULOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apre- sentação do Relató- rio de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+134,041.7,DESMEMBRAMENTO 4 anos,,Arquivamento,5 anos,Transferência,Guarda permanente,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+134,042,ALIENAÇÃO,,,,,,"Eliminar, após 2 anos da produção, os docu- mentos referentes às ações de alienação não efetivadas.",Gestão de bens patrimoniais e de serviços
+134,042.1,VENDA,,,,,,,Gestão de bens patrimoniais e de serviços
+134,042.11,BENS IMÓVEIS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU) _______,5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+135,042.12,VEÍCULOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+135,042.13,BENS SEMOVENTES,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+135,042.2,DOAÇÃO E PERMUTA,,,,,,,Gestão de bens patrimoniais e de serviços
+135,042.21,BENS IMÓVEIS,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+135,042.22,VEÍCULOS,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar prazos dos documentos financeiros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+135,042.23,BENS SEMOVENTES,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar prazos dos documentos financeiros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+135,042.3,DAÇÃO. ADJUDICAÇÃO,,,,,,,Gestão de bens patrimoniais e de serviços
+135,042.31,BENS IMÓVEIS,*,Quitação total da dí- vida,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+135,042.32,VEÍCULOS,*,Quitação total da dí- vida,5 anos,Transferência,Eliminação,Utilizar prazos dos documentos financeiros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+135,042.4,DESAPROPRIAÇÃO E DESMEMBRAMENTO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+135,042.5,CESSÃO E COMODATO,,,,,,,Gestão de bens patrimoniais e de serviços
+135,042.51,BENS IMÓVEIS,4 anos,Arquivamento _______,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+136,042.52,VEÍCULOS,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+136,042.53,BENS SEMOVENTES,4 anos,Arquivamento,5 anos,Transferência,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+136,042.6,LOCAÇÃO. ARRENDAMENTO. SUBLOCAÇÃO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+136,042.7,BAIXA. DESFAZIMENTO,,,,,,,Gestão de bens patrimoniais e de serviços
+136,042.71,VEÍCULOS,4 anos,Arquivamento,5 anos,Transferência,Eliminação,,Gestão de bens patrimoniais e de serviços
+136,042.72,BENS SEMOVENTES,4 anos,Arquivamento,5 anos,Transferência,Eliminação,,Gestão de bens patrimoniais e de serviços
+136,043,ADMINISTRAÇÃO CONDOMINIAL,,,,,,,Gestão de bens patrimoniais e de serviços
+136,043.1,REGISTRO DOS IMÓVEIS,3 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+136,043.2,SERVIÇOS DE CONDOMÍNIO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+136,043.3,REINTEGRAÇÃO DE POSSE. REIVINDICAÇÃO DE DOMÍNIO. DESPEJO DE PERMISSIONÁRIO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+136,043.4,TOMBAMENTO,*,Alienação,5 anos,Transferência,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+136,043.5,INSPEÇÃO PATRIMONIAL,3 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+136,043.6,MUDANÇA,,_______,,,,,Gestão de bens patrimoniais e de serviços
+137,043.61,PARA OUTROS IMÓVEIS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+137,043.62,DENTRO DO MESMO IMÓVEL,1 ano,Arquivamento,–,–,Eliminação,Utilizar os prazos dos documentos financei- ros para as transações que envolvam paga- mento de despesas.,Gestão de bens patrimoniais e de serviços
+137,043.7,USO DE DEPENDÊNCIAS,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
+137,044,ADMINISTRAÇÃO DA FROTA DE VEÍCULOS,,,,,,,Gestão de bens patrimoniais e de serviços
+137,044.1,"CADASTRAMENTO, LICENCIAMENTO E EMPLACAMENTO",*,Alienação,5 anos,Transferência,Eliminação,,Gestão de bens patrimoniais e de serviços
+137,044.2,TOMBAMENTO,*,Alienação,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+137,044.3,OCORRÊNCIA DE SINISTROS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. Observar para os acidentes com vítimas, o prazo total de guarda de 20 anos, após a conclusão do caso.",Gestão de bens patrimoniais e de serviços
+137,044.4,CONTROLE DE USO,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
+137,044.5,ESTACIONAMENTO. GARAGEM,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
+137,044.6,NOTIFICAÇÕES DE INFRAÇÕES E MULTAS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,"*O prazo de guarda se encerra imediata- mente após o evento. Observar para os acidentes com vítimas, o prazo total de guarda de 20 anos, após a conclusão do caso.",Gestão de bens patrimoniais e de serviços
+137,045,CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS,,,,,,"Eliminar, após 2 anos, os documentos refe- rentes às contratações não efetivadas.",Gestão de bens patrimoniais e de serviços
+137,045.01,SEGURO PATRIMONIAL,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+137,045.1,FORNECIMENTO DE SERVIÇOS PÚBLICOS ESSENCIAIS,,_______,,,,,Gestão de bens patrimoniais e de serviços
+138,045.11,ÁGUA E ESGOTAMENTO SANITÁRIO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+138,045.12,GÁS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+138,045.13,ENERGIA ELÉTRICA,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+138,045.2,MANUTENÇÃO E REPARO DAS INSTALAÇÕES,,,,,,,Gestão de bens patrimoniais e de serviços
+138,045.21,ELEVADORES,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+138,045.22,SISTEMAS CENTRAIS DE AR-CONDICIONADO,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+138,045.23,SUBESTAÇÕES ELÉTRICAS E GERADORES,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+138,045.24,CONSERVAÇÃO PREDIAL,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+138,045.3,EXECUÇÃO DE OBRAS,,,,,,,Gestão de bens patrimoniais e de serviços
+138,045.31,CONSTRUÇÃO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU) _______,5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+139,045.32,REFORMA. RECUPERAÇÃO. RESTAURAÇÃO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+139,045.33,ADAPTAÇÃO DE USO,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+139,045.4,VIGILÂNCIA PATRIMONIAL,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+139,045.5,ABASTECIMENTO E MANUTENÇÃO DE VEÍCULOS,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+139,045.6,ASSISTÊNCIA VETERINÁRIA,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+139,045.7,ADESTRAMENTO,–,–,–,–,–,,Gestão de bens patrimoniais e de serviços
+139,046,"PROTEÇÃO, GUARDA E SEGURANÇA PATRIMONIAL",,,,,,,Gestão de bens patrimoniais e de serviços
+139,046.1,PREVENÇÃO DE INCÊNDIO,,,,,,,Gestão de bens patrimoniais e de serviços
+139,046.11,"PLANEJAMENTO, ELABORAÇÃO E ACOMPANHAMENTO DE PROJETOS",4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+139,046.12,CONSTITUIÇÃO DE BRIGADA VOLUNTÁRIA,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+139,046.13,INSTALAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE COMBATE A INCÊNDIO,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
+139,046.2,MONITORAMENTO. VIGILÂNCIA,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
+139,046.3,OCORRÊNCIA DE SINISTROS,*,Conclusão do caso,5 anos,Transferência,Eliminação,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+139,046.4,CONTROLE DE PORTARIA,2 anos,Arquivamento,*,Transferência,Eliminação,"*Observar para os registros de ocorrências, o prazo total de guarda de 10 anos, a contar da produção.",Gestão de bens patrimoniais e de serviços
+139,047,CONTROLE DE BENS PATRIMONIAIS,,,,,,,Gestão de bens patrimoniais e de serviços
+139,047.01,COMISSÃO DE INVENTÁRIO,*,Enquanto vigora _______,–,–,Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+140,047.1,INVENTÁRIO DE BENS IMÓVEIS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+140,047.2,INVENTÁRIO DE VEÍCULOS,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,*O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+140,047.3,INVENTÁRIO DE BENS SEMOVENTES,*,Aprovação das con- tas do ano fiscal pelo Tribunal de Contas da União (ou a apresentação do Relatório de Gestão ao TCU),5 anos,Após a aprovação das contas do ano fiscal pelo Tribunal de Contas da União (ou após apresen- tação do Relatório de Gestão ao TCU),Guarda permanente,* O prazo de guarda se encerra imediata- mente após o evento.,Gestão de bens patrimoniais e de serviços
+140,049,OUTRAS AÇÕES REFERENTES À GESTÃO DE BENS PATRIMONIAIS E DE SERVIÇOS,,,,,,,Gestão de bens patrimoniais e de serviços
+140,049.1,RACIONALIZAÇÃO DO USO DE BENS E SERVIÇOS,,,,,,,Gestão de bens patrimoniais e de serviços
+140,049.11,CRIAÇÃO E ATUAÇÃO DE GRUPOS DE TRABALHO,4 anos,Arquivamento,5 anos,Transferência,Guarda permanente,,Gestão de bens patrimoniais e de serviços
+140,049.12,OPERACIONALIZAÇÃO DE REUNIÕES,2 anos,Arquivamento,–,–,Eliminação,,Gestão de bens patrimoniais e de serviços
