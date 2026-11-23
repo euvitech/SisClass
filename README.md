@@ -35,4 +35,4 @@ O PDF imprime "52 anos" no arquivo intermediário de 022.1 e 022.22; o sistema r
 ## Limitações conhecidas
 O sistema distingue compra, doação, venda etc. pelas palavras do texto; sem essa pista, códigos parecidos ficam
 empatados e a regra R10 mostra as alternativas. Uma palavra solta não decide um código (R4 exige ao menos 2 termos
-em comum); nesse caso ele pergunta ao operador. Palavras de cabeçalho de atos (portaria, decreto, resolve...) são ignoradas.
+em comum); nesse caso ele pergunta ao operador. Palavras de cabeçalho de atos (portaria, decreto, resolve...) são ignoradas..
